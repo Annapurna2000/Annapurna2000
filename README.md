@@ -1,3 +1,4 @@
+![Your paragraph text](https://github.com/Annapurna2000/Annapurna2000/assets/165063881/5b00ec3c-d0c8-46dd-b730-9b75f71c2382)
 <h1 align="center">Hi 👋, I'm Annapurna Tripathi</h1>
 <h3 align="center">A Data Detective ,From spreadsheets to insights, I'm here to crunch the numbers and unlock the power of data-driven strategies.</h3>
 
